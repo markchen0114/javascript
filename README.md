@@ -1,6 +1,7 @@
 # javascript
 
 # tricket
+```
 for(var i=0;i<3;i++) {
         setTimeout(console.log("1i" + i), 500)
 
@@ -19,4 +20,4 @@ for(var i=0;i<3;i++) {
         let j=i 
         setTimeout(() => {console.log("3j" + j)}, 1000)
   }
-  
+  ```
